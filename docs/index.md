@@ -9,3 +9,7 @@
 ## On Visual Studio Code
 
 - Install yaml extension
+
+## AI
+
+- [Comment les centres de données d'IA dévorent le monde](https://www.youtube.com/watch?v=dhqoTku-HAA)
