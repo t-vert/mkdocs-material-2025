@@ -1,7 +1,5 @@
 # Gemini-cli
   
-  The screenshot is saved at /Users/tam0123/code/gemini/.playwright-mcp/hackernews.png.
-
   Here are the top 4 posts on Hacker News by points:
 
 ```
