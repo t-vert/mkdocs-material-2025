@@ -4,7 +4,7 @@
 
   Here are the top 4 posts on Hacker News by points:
 
-
+```
   ┌──────┬──────────────────────────────────────────────────────────────────────┬────────────────────────────────────────────────────────────────────────────┬────────┐
   │ Rank │ Title                                                                │ URL                                                                        │ Points │
   ├──────┼──────────────────────────────────────────────────────────────────────┼────────────────────────────────────────────────────────────────────────────┼────────┤
@@ -13,5 +13,6 @@
   │ 3    │ Nuclear: Desktop music player focused on streaming from free sources │ https://github.com/nukeop/nuclear                                          │ 291    │
   │ 4    │ Evidence that AI is destroying jobs for young people                 │ https://www.derekthompson.org/p/the-evidence-that-ai-is-destroying         │ 253    │
   └──────┴──────────────────────────────────────────────────────────────────────┴────────────────────────────────────────────────────────────────────────────┴────────┘
+```
 
 ![Hacker News Screenshot](./img/hackernews-by-gemini-cli.png)
